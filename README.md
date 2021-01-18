@@ -1,5 +1,5 @@
 # Todo Ract on Rails 
-<img src="https://res.cloudinary.com/practicaldev/image/fetch/s--pVjgI2yd--/c_imagga_scale,f_auto,fl_progressive,h_900,q_auto,w_1600/https://thepracticaldev.s3.amazonaws.com/i/j0xrwz8vsxkvc5b4nndy.png" align="right"
+<img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRbZ4Msmk0LC1JKbEUfbt0aQ-4Vtpbj2NmR-A&usqp=CAU" align="right"
      alt="ruby on rails" height="150">
 
 ## Learning to build a full stack app with React and Rails
